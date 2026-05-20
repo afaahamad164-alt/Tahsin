@@ -923,3 +923,95 @@ button { cursor: pointer; }
 
     background:#4c7c59;
 }
+
+/* Colorblind friendly mode button beside navigation */
+.colorblind-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  border: 1px solid rgba(255,255,255,0.32);
+  border-radius: 999px;
+  padding: 0.62rem 1rem;
+  font-weight: 700;
+  color: #ffffff;
+  background: rgba(255,255,255,0.14);
+  -webkit-backdrop-filter: var(--glass-blur-small);
+  backdrop-filter: var(--glass-blur-small);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.22), 0 8px 18px rgba(0,0,0,0.08);
+  transition: background 0.22s ease, color 0.22s ease, transform 0.22s ease, box-shadow 0.22s ease;
+}
+
+.colorblind-toggle:hover,
+.colorblind-toggle:focus-visible {
+  transform: translateY(-2px);
+  background: rgba(255,255,255,0.24);
+  color: var(--gold-500);
+}
+
+.colorblind-toggle[aria-pressed="true"] {
+  background: linear-gradient(160deg, #f6c445, #f59e0b);
+  color: #102a43;
+  border-color: rgba(255,255,255,0.62);
+}
+
+.toggle-icon {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+/* Full page colorblind friendly theme */
+body.colorblind-mode {
+  --green-900: #102a43;
+  --green-800: #1d4e89;
+  --green-700: #2563eb;
+  --green-100: #eaf4ff;
+  --gold-500: #f59e0b;
+  --gold-100: #fff4d6;
+  --gray-500: #4b5563;
+  --gray-800: #102a43;
+  --glass-dark: rgba(16, 42, 67, 0.78);
+  background:
+    radial-gradient(circle at 12% 14%, rgba(29, 78, 137, 0.20), transparent 28%),
+    radial-gradient(circle at 82% 16%, rgba(37, 99, 235, 0.13), transparent 30%),
+    radial-gradient(circle at 88% 80%, rgba(245, 158, 11, 0.20), transparent 28%),
+    linear-gradient(145deg, #eaf4ff 0%, #ffffff 45%, #fff7df 100%);
+}
+
+body.colorblind-mode::before {
+  background: rgba(29, 78, 137, 0.20);
+}
+
+body.colorblind-mode::after {
+  background: rgba(245, 158, 11, 0.18);
+}
+
+body.colorblind-mode .topbar {
+  background: rgba(16, 42, 67, 0.86);
+}
+
+body.colorblind-mode .btn-primary {
+  background: linear-gradient(160deg, #2563eb, #1d4e89);
+  color: #ffffff;
+  box-shadow: 0 12px 28px rgba(29, 78, 137, 0.34), inset 0 1px 0 rgba(255,255,255,0.28);
+}
+
+body.colorblind-mode .btn-primary:hover,
+body.colorblind-mode .btn-primary:focus-visible,
+body.colorblind-mode .btn-gold {
+  background: linear-gradient(160deg, #f6c445, #f59e0b);
+  color: #102a43;
+}
+
+body.colorblind-mode .badge,
+body.colorblind-mode .price-tag,
+body.colorblind-mode .meta-chip,
+body.colorblind-mode .inline-list li {
+  border-color: rgba(29, 78, 137, 0.24);
+}
+
+@media (max-width: 760px) {
+  .colorblind-toggle {
+    width: 100%;
+  }
+}

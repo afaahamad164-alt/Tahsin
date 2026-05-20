@@ -41,6 +41,62 @@ export function setActiveNav() {
       currentLink.classList.remove('active');
     }
   }
+
+  initializeColorblindMode();
+}
+
+
+//Colorblind friendly mode
+//called by setActiveNav() on every page
+//checks localStorage so the user's choice stays when moving page
+//adds colorblind-mode class to body when button is clicked
+//updates the button text and aria-pressed for accessibility
+function initializeColorblindMode() {
+  let toggleButton = document.querySelector('[data-colorblind-toggle]');
+  let toggleText = document.querySelector('[data-colorblind-text]');
+
+  if (!toggleButton) {
+    return;
+  }
+
+  let savedMode = localStorage.getItem('tahsinColorblindMode');
+  let isColorblindMode = savedMode === 'on';
+
+  updateColorblindPage(isColorblindMode, toggleButton, toggleText);
+
+  toggleButton.addEventListener('click', function () {
+    isColorblindMode = !isColorblindMode;
+
+    if (isColorblindMode) {
+      localStorage.setItem('tahsinColorblindMode', 'on');
+    } else {
+      localStorage.setItem('tahsinColorblindMode', 'off');
+    }
+
+    updateColorblindPage(isColorblindMode, toggleButton, toggleText);
+  });
+}
+
+//Update colorblind page display
+//called by initializeColorblindMode()
+//turns the colorblind class on or off
+//changes the button text so users know current mode
+function updateColorblindPage(isColorblindMode, toggleButton, toggleText) {
+  if (isColorblindMode) {
+    document.body.classList.add('colorblind-mode');
+    toggleButton.setAttribute('aria-pressed', 'true');
+
+    if (toggleText) {
+      toggleText.textContent = 'Normal Mode';
+    }
+  } else {
+    document.body.classList.remove('colorblind-mode');
+    toggleButton.setAttribute('aria-pressed', 'false');
+
+    if (toggleText) {
+      toggleText.textContent = 'Colorblind Mode';
+    }
+  }
 }
 
 //Get selected class from URL/localStorage
