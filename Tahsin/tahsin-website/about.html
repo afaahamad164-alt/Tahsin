@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tahsin | About</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <header class="topbar">
+    <div class="container nav">
+      <a class="brand" href="index.html">
+        <span class="brand-mark"><img src="ChatGPT_Image_May_9__2026__08_14_37_PM-removebg-preview.png"></span>
+        <span>Tahsin</span>
+      </a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a href="index.html" data-nav>Home</a>
+        <a href="classes.html" data-nav>Classes</a>
+        <a href="teachers.html" data-nav>Find Teacher</a>
+        <a href="map.html" data-nav>Map</a>
+        <a href="about.html" data-nav>About</a>
+        <a href="team.html" data-nav>Team</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main-content" class="section">
+    <div class="container page-grid grid">
+      <section class="card" style="padding:1.4rem;">
+        <h1 class="section-title">About Tahsin</h1>
+        <p>Tahsin is a responsive service website designed to connect users with suitable Quran learning classes and teachers. Its main idea is simple: users first choose a class route, then receive a teacher list that can be searched, filtered, sorted, and intelligently ranked.</p>
+        <div class="note-box">
+          <strong>What makes it unique?</strong>
+          Tahsin does not stop at listing teachers. It includes a smart match score so the system recommends the most suitable teacher based on user preference.
+        </div>
+      </section>
+      <section class="card" style="padding:1.4rem;">
+        <h2 class="section-title">Technology used</h2>
+        <ul>
+          <li><strong>HTML:</strong> semantic structure with accessible navigation and forms.</li>
+          <li><strong>CSS:</strong> consistent dark green, white, and gold theme with responsive layouts.</li>
+          <li><strong>JavaScript:</strong> search, sorting, filtering, matching logic, and compare feature.</li>
+          <li><strong>AJAX:</strong> fetch() is used to retrieve JSON data without reloading pages.</li>
+          <li><strong>JSON:</strong> class, teacher, and team data are stored in JSON files.</li>
+          <li><strong>API:</strong> Leaflet and OpenStreetMap display teacher locations on a map.</li>
+        </ul>
+      </section>
+      <section class="card" style="padding:1.4rem; grid-column: 1 / -1;">
+        <h2 class="section-title">Main objectives</h2>
+        <ul class="pill-list">
+          <li>Help users discover suitable Quran learning services</li>
+          <li>Provide class-based navigation before teacher selection</li>
+          <li>Support searching, sorting, and filtering clearly</li>
+          <li>Show dynamic content with JSON and AJAX</li>
+          <li>Demonstrate an API page with practical value</li>
+          <li>Maintain accessibility and responsive design</li>
+        </ul>
+      </section>
+    </div>
+  </main>
+  <footer class="footer"><div class="container"><p>The About page can be used directly in your documentation screenshots.</p></div></footer>
+  <script type="module">import { setActiveNav } from './js/common.js'; setActiveNav();</script>
+</body>
+</html>

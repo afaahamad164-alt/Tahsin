@@ -1,0 +1,3945 @@
+[
+  {
+    "id": 1,
+    "name": "Ustaz Zikri Danish",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuala Lumpur",
+    "price": 30,
+    "rating": 4.73,
+    "experience": 17,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": false,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers online lessons at RM30.",
+    "lat": 3.211645,
+    "lng": 101.67982,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 2,
+    "name": "Ustaz Ahmad Hakimi",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Shah Alam",
+    "price": 30,
+    "rating": 4.81,
+    "experience": 3,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": true,
+    "certification": "Elderly Quran Support",
+    "image": "images/tmale.jpg",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers online lessons at RM30.",
+    "lat": 3.094411,
+    "lng": 101.472993,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 3,
+    "name": "Ustazah Nur Alya",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kuantan",
+    "price": 30,
+    "rating": 4.7,
+    "experience": 14,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": false,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tfemale.webp",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers online lessons at RM30.",
+    "lat": 3.81533,
+    "lng": 103.387106,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 4,
+    "name": "Ustazah Humaira Azra",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Johor Bahru",
+    "price": 30,
+    "rating": 4.63,
+    "experience": 16,
+    "level": "Beginner",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": false,
+    "certification": "Child Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers online lessons at RM30.",
+    "lat": 1.415143,
+    "lng": 103.722985,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 5,
+    "name": "Ustaz Syafiq Imran",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Penang",
+    "price": 30,
+    "rating": 4.9,
+    "experience": 10,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers online lessons at RM30.",
+    "lat": 5.346077,
+    "lng": 100.344385,
+    "badge": "Best Value"
+  },
+  {
+    "id": 6,
+    "name": "Ustazah Hana Qariah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Ipoh",
+    "price": 30,
+    "rating": 4.74,
+    "experience": 7,
+    "level": "Beginner",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Teen Quran Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers online lessons at RM30.",
+    "lat": 4.646556,
+    "lng": 101.025467,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 7,
+    "name": "Ustazah Safiyya Nabila",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kota Bharu",
+    "price": 40,
+    "rating": 4.82,
+    "experience": 8,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": true,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tfemale.webp",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers online lessons at RM40.",
+    "lat": 6.092933,
+    "lng": 102.278876,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 8,
+    "name": "Ustazah Aisyah Madihah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kuala Terengganu",
+    "price": 40,
+    "rating": 4.76,
+    "experience": 14,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": true,
+    "certification": "Murajaah Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers online lessons at RM40.",
+    "lat": 5.296935,
+    "lng": 103.215292,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 9,
+    "name": "Ustaz Luqman Anwar",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kota Kinabalu",
+    "price": 40,
+    "rating": 4.56,
+    "experience": 3,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": true,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tmale.jpg",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers online lessons at RM40.",
+    "lat": 5.992782,
+    "lng": 115.99628,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 10,
+    "name": "Ustaz Amir Haziq",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Sandakan",
+    "price": 40,
+    "rating": 4.82,
+    "experience": 10,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": true,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tmale.jpg",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers online lessons at RM40.",
+    "lat": 5.816342,
+    "lng": 118.053443,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 11,
+    "name": "Ustazah Qistina Amal",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Tawau",
+    "price": 40,
+    "rating": 4.67,
+    "experience": 6,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": false,
+    "certification": "Tarannum Trainer",
+    "image": "images/tfemale.webp",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers online lessons at RM40.",
+    "lat": 4.183695,
+    "lng": 117.899338,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 12,
+    "name": "Ustazah Nur Alya",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kuching",
+    "price": 40,
+    "rating": 4.94,
+    "experience": 12,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": true,
+    "certification": "Sanad Qiraat",
+    "image": "images/tfemale.webp",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers online lessons at RM40.",
+    "lat": 1.590126,
+    "lng": 110.394106,
+    "badge": "Sanad Track"
+  },
+  {
+    "id": 13,
+    "name": "Ustaz Luqman Anwar",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Miri",
+    "price": 50,
+    "rating": 4.98,
+    "experience": 11,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": true,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers online lessons at RM50.",
+    "lat": 4.383541,
+    "lng": 113.958419,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 14,
+    "name": "Ustaz Aiman Luqman",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Sibu",
+    "price": 50,
+    "rating": 4.93,
+    "experience": 6,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": false,
+    "certification": "Elderly Quran Support",
+    "image": "images/tmale.jpg",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers online lessons at RM50.",
+    "lat": 2.223506,
+    "lng": 111.808379,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 15,
+    "name": "Ustaz Faris Qari",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Bintulu",
+    "price": 50,
+    "rating": 4.57,
+    "experience": 5,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": true,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tmale.jpg",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers online lessons at RM50.",
+    "lat": 3.142753,
+    "lng": 113.064691,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 16,
+    "name": "Ustaz Amir Haziq",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Labuan",
+    "price": 50,
+    "rating": 4.88,
+    "experience": 18,
+    "level": "Beginner",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": false,
+    "certification": "Child Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers online lessons at RM50.",
+    "lat": 5.230168,
+    "lng": 115.297752,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 17,
+    "name": "Ustaz Zikri Danish",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuala Lumpur",
+    "price": 50,
+    "rating": 4.61,
+    "experience": 3,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": false,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers online lessons at RM50.",
+    "lat": 3.192719,
+    "lng": 101.699718,
+    "badge": "Best Value"
+  },
+  {
+    "id": 18,
+    "name": "Ustaz Hafiz Firdaus",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Shah Alam",
+    "price": 50,
+    "rating": 4.75,
+    "experience": 6,
+    "level": "Beginner",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Teen Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers online lessons at RM50.",
+    "lat": 3.140801,
+    "lng": 101.485374,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 19,
+    "name": "Ustaz Hafiz Firdaus",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuantan",
+    "price": 60,
+    "rating": 4.9,
+    "experience": 5,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": false,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tmale.jpg",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers online lessons at RM60.",
+    "lat": 3.760835,
+    "lng": 103.306013,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 20,
+    "name": "Ustaz Naufal Amin",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Johor Bahru",
+    "price": 60,
+    "rating": 4.62,
+    "experience": 7,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": true,
+    "certification": "Murajaah Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers online lessons at RM60.",
+    "lat": 1.485749,
+    "lng": 103.758404,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 21,
+    "name": "Ustaz Luqman Anwar",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Penang",
+    "price": 60,
+    "rating": 4.74,
+    "experience": 10,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": true,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tmale.jpg",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers online lessons at RM60.",
+    "lat": 5.353558,
+    "lng": 100.338388,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 22,
+    "name": "Ustazah Nur Alya",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Ipoh",
+    "price": 60,
+    "rating": 4.73,
+    "experience": 10,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": false,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers online lessons at RM60.",
+    "lat": 4.637741,
+    "lng": 101.068141,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 23,
+    "name": "Ustazah Hana Qariah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kota Bharu",
+    "price": 60,
+    "rating": 4.98,
+    "experience": 9,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": false,
+    "certification": "Tarannum Trainer",
+    "image": "images/tfemale.webp",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers online lessons at RM60.",
+    "lat": 6.096067,
+    "lng": 102.318224,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 24,
+    "name": "Ustazah Humaira Azra",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kuala Terengganu",
+    "price": 60,
+    "rating": 4.89,
+    "experience": 4,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": true,
+    "certification": "Sanad Qiraat",
+    "image": "images/tfemale.webp",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers online lessons at RM60.",
+    "lat": 5.31757,
+    "lng": 103.075736,
+    "badge": "Sanad Track"
+  },
+  {
+    "id": 25,
+    "name": "Ustazah Izzah Syakirah",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kota Kinabalu",
+    "price": 30,
+    "rating": 4.92,
+    "experience": 12,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": false,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers physical lessons at RM30.",
+    "lat": 6.003338,
+    "lng": 116.105496,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 26,
+    "name": "Ustazah Humaira Azra",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Sandakan",
+    "price": 30,
+    "rating": 4.6,
+    "experience": 13,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": true,
+    "certification": "Elderly Quran Support",
+    "image": "images/tfemale.webp",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers physical lessons at RM30.",
+    "lat": 5.763933,
+    "lng": 118.120344,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 27,
+    "name": "Ustazah Aina Sofia",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Tawau",
+    "price": 30,
+    "rating": 4.9,
+    "experience": 18,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": true,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tfemale.webp",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers physical lessons at RM30.",
+    "lat": 4.244102,
+    "lng": 117.811582,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 28,
+    "name": "Ustazah Sarah Huda",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kuching",
+    "price": 30,
+    "rating": 4.79,
+    "experience": 15,
+    "level": "Beginner",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": true,
+    "certification": "Child Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers physical lessons at RM30.",
+    "lat": 1.571247,
+    "lng": 110.401519,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 29,
+    "name": "Ustaz Luqman Anwar",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Miri",
+    "price": 30,
+    "rating": 4.78,
+    "experience": 14,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": false,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers physical lessons at RM30.",
+    "lat": 4.401162,
+    "lng": 113.974294,
+    "badge": "Best Value"
+  },
+  {
+    "id": 30,
+    "name": "Ustaz Aiman Luqman",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Sibu",
+    "price": 30,
+    "rating": 4.76,
+    "experience": 5,
+    "level": "Beginner",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": false,
+    "certification": "Teen Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers physical lessons at RM30.",
+    "lat": 2.240255,
+    "lng": 111.871599,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 31,
+    "name": "Ustazah Aina Sofia",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Bintulu",
+    "price": 40,
+    "rating": 4.68,
+    "experience": 16,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": false,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tfemale.webp",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers physical lessons at RM40.",
+    "lat": 3.172836,
+    "lng": 112.979246,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 32,
+    "name": "Ustaz Irfan Hadi",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Labuan",
+    "price": 40,
+    "rating": 4.74,
+    "experience": 10,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": true,
+    "certification": "Murajaah Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers physical lessons at RM40.",
+    "lat": 5.245393,
+    "lng": 115.168804,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 33,
+    "name": "Ustaz Daniel Rayyan",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Kuala Lumpur",
+    "price": 40,
+    "rating": 4.91,
+    "experience": 5,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": true,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tmale.jpg",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers physical lessons at RM40.",
+    "lat": 3.132048,
+    "lng": 101.656846,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 34,
+    "name": "Ustaz Zikri Danish",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Shah Alam",
+    "price": 40,
+    "rating": 4.94,
+    "experience": 8,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": false,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tmale.jpg",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers physical lessons at RM40.",
+    "lat": 3.060058,
+    "lng": 101.563609,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 35,
+    "name": "Ustaz Irfan Hadi",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Kuantan",
+    "price": 40,
+    "rating": 4.67,
+    "experience": 12,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": true,
+    "certification": "Tarannum Trainer",
+    "image": "images/tmale.jpg",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers physical lessons at RM40.",
+    "lat": 3.8358,
+    "lng": 103.332149,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 36,
+    "name": "Ustazah Safiyya Nabila",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Johor Bahru",
+    "price": 40,
+    "rating": 4.65,
+    "experience": 4,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": false,
+    "certification": "Sanad Qiraat",
+    "image": "images/tfemale.webp",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers physical lessons at RM40.",
+    "lat": 1.539065,
+    "lng": 103.758504,
+    "badge": "Sanad Track"
+  },
+  {
+    "id": 37,
+    "name": "Ustaz Daniel Rayyan",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Penang",
+    "price": 50,
+    "rating": 4.96,
+    "experience": 7,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": false,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers physical lessons at RM50.",
+    "lat": 5.485813,
+    "lng": 100.351368,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 38,
+    "name": "Ustazah Izzah Syakirah",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Ipoh",
+    "price": 50,
+    "rating": 4.93,
+    "experience": 10,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": true,
+    "certification": "Elderly Quran Support",
+    "image": "images/tfemale.webp",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers physical lessons at RM50.",
+    "lat": 4.548994,
+    "lng": 101.022081,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 39,
+    "name": "Ustazah Sarah Huda",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kota Bharu",
+    "price": 50,
+    "rating": 4.87,
+    "experience": 13,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": true,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tfemale.webp",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers physical lessons at RM50.",
+    "lat": 6.140552,
+    "lng": 102.184716,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 40,
+    "name": "Ustazah Balqis Husna",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kuala Terengganu",
+    "price": 50,
+    "rating": 4.93,
+    "experience": 9,
+    "level": "Beginner",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": true,
+    "certification": "Child Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers physical lessons at RM50.",
+    "lat": 5.327392,
+    "lng": 103.163684,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 41,
+    "name": "Ustaz Amir Haziq",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Kota Kinabalu",
+    "price": 50,
+    "rating": 4.72,
+    "experience": 8,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers physical lessons at RM50.",
+    "lat": 6.003102,
+    "lng": 116.052571,
+    "badge": "Best Value"
+  },
+  {
+    "id": 42,
+    "name": "Ustazah Sarah Huda",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Sandakan",
+    "price": 50,
+    "rating": 4.74,
+    "experience": 16,
+    "level": "Beginner",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": false,
+    "certification": "Teen Quran Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers physical lessons at RM50.",
+    "lat": 5.898727,
+    "lng": 118.060402,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 43,
+    "name": "Ustaz Luqman Anwar",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Tawau",
+    "price": 60,
+    "rating": 4.83,
+    "experience": 14,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": true,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tmale.jpg",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers physical lessons at RM60.",
+    "lat": 4.167961,
+    "lng": 117.841469,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 44,
+    "name": "Ustaz Irfan Hadi",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Kuching",
+    "price": 60,
+    "rating": 4.82,
+    "experience": 13,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": true,
+    "certification": "Murajaah Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers physical lessons at RM60.",
+    "lat": 1.579765,
+    "lng": 110.33541,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 45,
+    "name": "Ustazah Humaira Azra",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Miri",
+    "price": 60,
+    "rating": 4.92,
+    "experience": 4,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": true,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers physical lessons at RM60.",
+    "lat": 4.382509,
+    "lng": 114.008255,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 46,
+    "name": "Ustazah Izzah Syakirah",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Sibu",
+    "price": 60,
+    "rating": 4.63,
+    "experience": 16,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": false,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers physical lessons at RM60.",
+    "lat": 2.266902,
+    "lng": 111.86422,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 47,
+    "name": "Ustaz Yusuf Hakim",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Bintulu",
+    "price": 60,
+    "rating": 4.78,
+    "experience": 17,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": true,
+    "certification": "Tarannum Trainer",
+    "image": "images/tmale.jpg",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers physical lessons at RM60.",
+    "lat": 3.223335,
+    "lng": 112.985058,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 48,
+    "name": "Ustaz Daniel Rayyan",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Labuan",
+    "price": 60,
+    "rating": 4.95,
+    "experience": 9,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": false,
+    "certification": "Sanad Qiraat",
+    "image": "images/tmale.jpg",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers physical lessons at RM60.",
+    "lat": 5.245887,
+    "lng": 115.160676,
+    "badge": "Sanad Track"
+  },
+  {
+    "id": 49,
+    "name": "Ustazah Nur Alya",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kuala Lumpur",
+    "price": 30,
+    "rating": 4.75,
+    "experience": 5,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": true,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers online lessons at RM30.",
+    "lat": 3.218683,
+    "lng": 101.644661,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 50,
+    "name": "Ustazah Safiyya Nabila",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Shah Alam",
+    "price": 30,
+    "rating": 4.94,
+    "experience": 6,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": true,
+    "certification": "Elderly Quran Support",
+    "image": "images/tfemale.webp",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers online lessons at RM30.",
+    "lat": 3.124232,
+    "lng": 101.440154,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 51,
+    "name": "Ustazah Aisyah Madihah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kuantan",
+    "price": 30,
+    "rating": 4.84,
+    "experience": 17,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": true,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tfemale.webp",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers online lessons at RM30.",
+    "lat": 3.803321,
+    "lng": 103.378585,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 52,
+    "name": "Ustaz Ahmad Hakimi",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Johor Bahru",
+    "price": 30,
+    "rating": 4.55,
+    "experience": 3,
+    "level": "Intermediate",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": true,
+    "certification": "Child Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers online lessons at RM30.",
+    "lat": 1.429331,
+    "lng": 103.746123,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 53,
+    "name": "Ustazah Izzah Syakirah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Penang",
+    "price": 30,
+    "rating": 4.93,
+    "experience": 5,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": false,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers online lessons at RM30.",
+    "lat": 5.402632,
+    "lng": 100.32684,
+    "badge": "Best Value"
+  },
+  {
+    "id": 54,
+    "name": "Ustazah Safiyya Nabila",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Ipoh",
+    "price": 30,
+    "rating": 4.68,
+    "experience": 11,
+    "level": "Intermediate",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Teen Quran Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers online lessons at RM30.",
+    "lat": 4.549243,
+    "lng": 101.127117,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 55,
+    "name": "Ustaz Aiman Luqman",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kota Bharu",
+    "price": 40,
+    "rating": 5.0,
+    "experience": 18,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": false,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tmale.jpg",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers online lessons at RM40.",
+    "lat": 6.156852,
+    "lng": 102.181878,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 56,
+    "name": "Ustaz Zikri Danish",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuala Terengganu",
+    "price": 40,
+    "rating": 4.63,
+    "experience": 17,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": true,
+    "certification": "Murajaah Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers online lessons at RM40.",
+    "lat": 5.30613,
+    "lng": 103.113437,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 57,
+    "name": "Ustazah Izzah Syakirah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kota Kinabalu",
+    "price": 40,
+    "rating": 4.72,
+    "experience": 8,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": true,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers online lessons at RM40.",
+    "lat": 5.979109,
+    "lng": 116.05519,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 58,
+    "name": "Ustazah Hana Qariah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Sandakan",
+    "price": 40,
+    "rating": 4.97,
+    "experience": 5,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": false,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers online lessons at RM40.",
+    "lat": 5.872725,
+    "lng": 118.078269,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 59,
+    "name": "Ustaz Aiman Luqman",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Tawau",
+    "price": 40,
+    "rating": 4.78,
+    "experience": 17,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": true,
+    "certification": "Tarannum Trainer",
+    "image": "images/tmale.jpg",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers online lessons at RM40.",
+    "lat": 4.228418,
+    "lng": 117.951769,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 60,
+    "name": "Ustaz Daniel Rayyan",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuching",
+    "price": 40,
+    "rating": 4.99,
+    "experience": 8,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": false,
+    "certification": "Sanad Qiraat",
+    "image": "images/tmale.jpg",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers online lessons at RM40.",
+    "lat": 1.541874,
+    "lng": 110.351654,
+    "badge": "Sanad Track"
+  },
+  {
+    "id": 61,
+    "name": "Ustaz Ahmad Hakimi",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Miri",
+    "price": 50,
+    "rating": 4.61,
+    "experience": 16,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": true,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers online lessons at RM50.",
+    "lat": 4.457743,
+    "lng": 113.949824,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 62,
+    "name": "Ustazah Humaira Azra",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Sibu",
+    "price": 50,
+    "rating": 4.57,
+    "experience": 15,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": false,
+    "certification": "Elderly Quran Support",
+    "image": "images/tfemale.webp",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers online lessons at RM50.",
+    "lat": 2.298169,
+    "lng": 111.79284,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 63,
+    "name": "Ustaz Daniel Rayyan",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Bintulu",
+    "price": 50,
+    "rating": 4.65,
+    "experience": 9,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": true,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tmale.jpg",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers online lessons at RM50.",
+    "lat": 3.224849,
+    "lng": 113.035247,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 64,
+    "name": "Ustazah Safiyya Nabila",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Labuan",
+    "price": 50,
+    "rating": 4.86,
+    "experience": 5,
+    "level": "Intermediate",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": false,
+    "certification": "Child Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers online lessons at RM50.",
+    "lat": 5.286722,
+    "lng": 115.258672,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 65,
+    "name": "Ustazah Aisyah Madihah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kuala Lumpur",
+    "price": 50,
+    "rating": 4.64,
+    "experience": 10,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": false,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers online lessons at RM50.",
+    "lat": 3.096142,
+    "lng": 101.657475,
+    "badge": "Best Value"
+  },
+  {
+    "id": 66,
+    "name": "Ustazah Aisyah Madihah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Shah Alam",
+    "price": 50,
+    "rating": 4.84,
+    "experience": 16,
+    "level": "Intermediate",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": false,
+    "certification": "Teen Quran Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers online lessons at RM50.",
+    "lat": 3.050723,
+    "lng": 101.592473,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 67,
+    "name": "Ustaz Yusuf Hakim",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuantan",
+    "price": 60,
+    "rating": 4.69,
+    "experience": 11,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": false,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tmale.jpg",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers online lessons at RM60.",
+    "lat": 3.854252,
+    "lng": 103.251317,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 68,
+    "name": "Ustazah Mariam Hafizah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Johor Bahru",
+    "price": 60,
+    "rating": 4.9,
+    "experience": 15,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": false,
+    "certification": "Murajaah Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers online lessons at RM60.",
+    "lat": 1.420412,
+    "lng": 103.72669,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 69,
+    "name": "Ustazah Izzah Syakirah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Penang",
+    "price": 60,
+    "rating": 4.87,
+    "experience": 5,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": false,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers online lessons at RM60.",
+    "lat": 5.401484,
+    "lng": 100.302456,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 70,
+    "name": "Ustazah Hana Qariah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Ipoh",
+    "price": 60,
+    "rating": 4.95,
+    "experience": 18,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": false,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers online lessons at RM60.",
+    "lat": 4.66309,
+    "lng": 101.139138,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 71,
+    "name": "Ustaz Naufal Amin",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kota Bharu",
+    "price": 60,
+    "rating": 4.85,
+    "experience": 10,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": false,
+    "certification": "Tarannum Trainer",
+    "image": "images/tmale.jpg",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers online lessons at RM60.",
+    "lat": 6.05429,
+    "lng": 102.185894,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 72,
+    "name": "Ustaz Aiman Luqman",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuala Terengganu",
+    "price": 60,
+    "rating": 4.95,
+    "experience": 12,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": false,
+    "certification": "Sanad Qiraat",
+    "image": "images/tmale.jpg",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers online lessons at RM60.",
+    "lat": 5.390729,
+    "lng": 103.186605,
+    "badge": "Sanad Track"
+  },
+  {
+    "id": 73,
+    "name": "Ustazah Izzah Syakirah",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kota Kinabalu",
+    "price": 30,
+    "rating": 4.78,
+    "experience": 13,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": false,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers physical lessons at RM30.",
+    "lat": 5.927178,
+    "lng": 116.021723,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 74,
+    "name": "Ustazah Izzah Syakirah",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Sandakan",
+    "price": 30,
+    "rating": 4.96,
+    "experience": 5,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": true,
+    "certification": "Elderly Quran Support",
+    "image": "images/tfemale.webp",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers physical lessons at RM30.",
+    "lat": 5.776909,
+    "lng": 118.0947,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 75,
+    "name": "Ustazah Izzah Syakirah",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Tawau",
+    "price": 30,
+    "rating": 4.89,
+    "experience": 6,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": true,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tfemale.webp",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers physical lessons at RM30.",
+    "lat": 4.296712,
+    "lng": 117.864125,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 76,
+    "name": "Ustazah Aina Sofia",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kuching",
+    "price": 30,
+    "rating": 4.94,
+    "experience": 16,
+    "level": "Intermediate",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": false,
+    "certification": "Child Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers physical lessons at RM30.",
+    "lat": 1.629885,
+    "lng": 110.390767,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 77,
+    "name": "Ustaz Faris Qari",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Miri",
+    "price": 30,
+    "rating": 4.85,
+    "experience": 8,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers physical lessons at RM30.",
+    "lat": 4.325085,
+    "lng": 114.064955,
+    "badge": "Best Value"
+  },
+  {
+    "id": 78,
+    "name": "Ustazah Aina Sofia",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Sibu",
+    "price": 30,
+    "rating": 4.74,
+    "experience": 14,
+    "level": "Intermediate",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Teen Quran Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers physical lessons at RM30.",
+    "lat": 2.281268,
+    "lng": 111.880718,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 79,
+    "name": "Ustazah Safiyya Nabila",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Bintulu",
+    "price": 40,
+    "rating": 4.85,
+    "experience": 7,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": false,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tfemale.webp",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers physical lessons at RM40.",
+    "lat": 3.152019,
+    "lng": 113.116305,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 80,
+    "name": "Ustaz Zikri Danish",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Labuan",
+    "price": 40,
+    "rating": 4.97,
+    "experience": 8,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": true,
+    "certification": "Murajaah Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers physical lessons at RM40.",
+    "lat": 5.340446,
+    "lng": 115.257402,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 81,
+    "name": "Ustazah Humaira Azra",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kuala Lumpur",
+    "price": 40,
+    "rating": 4.69,
+    "experience": 4,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": true,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers physical lessons at RM40.",
+    "lat": 3.079707,
+    "lng": 101.738162,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 82,
+    "name": "Ustazah Balqis Husna",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Shah Alam",
+    "price": 40,
+    "rating": 4.6,
+    "experience": 6,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": false,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers physical lessons at RM40.",
+    "lat": 3.151471,
+    "lng": 101.51635,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 83,
+    "name": "Ustaz Syafiq Imran",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Kuantan",
+    "price": 40,
+    "rating": 4.66,
+    "experience": 5,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": true,
+    "certification": "Tarannum Trainer",
+    "image": "images/tmale.jpg",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers physical lessons at RM40.",
+    "lat": 3.818529,
+    "lng": 103.321145,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 84,
+    "name": "Ustaz Daniel Rayyan",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Johor Bahru",
+    "price": 40,
+    "rating": 4.62,
+    "experience": 17,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": false,
+    "certification": "Sanad Qiraat",
+    "image": "images/tmale.jpg",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers physical lessons at RM40.",
+    "lat": 1.429111,
+    "lng": 103.717746,
+    "badge": "Sanad Track"
+  },
+  {
+    "id": 85,
+    "name": "Ustazah Sarah Huda",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Penang",
+    "price": 50,
+    "rating": 4.57,
+    "experience": 15,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": false,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers physical lessons at RM50.",
+    "lat": 5.447239,
+    "lng": 100.257765,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 86,
+    "name": "Ustazah Mariam Hafizah",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Ipoh",
+    "price": 50,
+    "rating": 4.94,
+    "experience": 9,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": true,
+    "certification": "Elderly Quran Support",
+    "image": "images/tfemale.webp",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers physical lessons at RM50.",
+    "lat": 4.542602,
+    "lng": 101.032299,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 87,
+    "name": "Ustaz Ahmad Hakimi",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Kota Bharu",
+    "price": 50,
+    "rating": 4.89,
+    "experience": 5,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": false,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tmale.jpg",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers physical lessons at RM50.",
+    "lat": 6.150419,
+    "lng": 102.216768,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 88,
+    "name": "Ustazah Sarah Huda",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kuala Terengganu",
+    "price": 50,
+    "rating": 4.6,
+    "experience": 12,
+    "level": "Intermediate",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": false,
+    "certification": "Child Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers physical lessons at RM50.",
+    "lat": 5.398478,
+    "lng": 103.131805,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 89,
+    "name": "Ustaz Zikri Danish",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Kota Kinabalu",
+    "price": 50,
+    "rating": 4.86,
+    "experience": 15,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers physical lessons at RM50.",
+    "lat": 6.058122,
+    "lng": 116.071317,
+    "badge": "Best Value"
+  },
+  {
+    "id": 90,
+    "name": "Ustaz Ahmad Hakimi",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Sandakan",
+    "price": 50,
+    "rating": 4.55,
+    "experience": 7,
+    "level": "Intermediate",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Teen Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers physical lessons at RM50.",
+    "lat": 5.806043,
+    "lng": 118.086523,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 91,
+    "name": "Ustaz Syafiq Imran",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Tawau",
+    "price": 60,
+    "rating": 4.99,
+    "experience": 11,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": true,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tmale.jpg",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers physical lessons at RM60.",
+    "lat": 4.25536,
+    "lng": 117.906885,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 92,
+    "name": "Ustaz Syafiq Imran",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Kuching",
+    "price": 60,
+    "rating": 4.83,
+    "experience": 4,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": true,
+    "certification": "Murajaah Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers physical lessons at RM60.",
+    "lat": 1.5287,
+    "lng": 110.427738,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 93,
+    "name": "Ustaz Irfan Hadi",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Miri",
+    "price": 60,
+    "rating": 4.72,
+    "experience": 9,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": false,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tmale.jpg",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers physical lessons at RM60.",
+    "lat": 4.374935,
+    "lng": 114.069973,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 94,
+    "name": "Ustazah Nur Alya",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Sibu",
+    "price": 60,
+    "rating": 4.91,
+    "experience": 3,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": true,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers physical lessons at RM60.",
+    "lat": 2.329646,
+    "lng": 111.772329,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 95,
+    "name": "Ustazah Aina Sofia",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Bintulu",
+    "price": 60,
+    "rating": 4.75,
+    "experience": 11,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": false,
+    "certification": "Tarannum Trainer",
+    "image": "images/tfemale.webp",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers physical lessons at RM60.",
+    "lat": 3.189048,
+    "lng": 113.119115,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 96,
+    "name": "Ustaz Ahmad Hakimi",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Labuan",
+    "price": 60,
+    "rating": 4.8,
+    "experience": 7,
+    "level": "Intermediate",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": false,
+    "certification": "Sanad Qiraat",
+    "image": "images/tmale.jpg",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers physical lessons at RM60.",
+    "lat": 5.315565,
+    "lng": 115.23205,
+    "badge": "Sanad Track"
+  },
+  {
+    "id": 97,
+    "name": "Ustaz Syafiq Imran",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuala Lumpur",
+    "price": 30,
+    "rating": 4.97,
+    "experience": 13,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": true,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers online lessons at RM30.",
+    "lat": 3.067582,
+    "lng": 101.762966,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 98,
+    "name": "Ustazah Humaira Azra",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Shah Alam",
+    "price": 30,
+    "rating": 4.87,
+    "experience": 7,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": true,
+    "certification": "Elderly Quran Support",
+    "image": "images/tfemale.webp",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers online lessons at RM30.",
+    "lat": 3.076469,
+    "lng": 101.51815,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 99,
+    "name": "Ustaz Irfan Hadi",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuantan",
+    "price": 30,
+    "rating": 4.61,
+    "experience": 10,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": true,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tmale.jpg",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers online lessons at RM30.",
+    "lat": 3.841756,
+    "lng": 103.257713,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 100,
+    "name": "Ustaz Aiman Luqman",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Johor Bahru",
+    "price": 30,
+    "rating": 4.72,
+    "experience": 7,
+    "level": "Advanced",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": true,
+    "certification": "Child Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers online lessons at RM30.",
+    "lat": 1.425001,
+    "lng": 103.708092,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 101,
+    "name": "Ustaz Faris Qari",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Penang",
+    "price": 30,
+    "rating": 4.61,
+    "experience": 6,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers online lessons at RM30.",
+    "lat": 5.447464,
+    "lng": 100.27664,
+    "badge": "Best Value"
+  },
+  {
+    "id": 102,
+    "name": "Ustazah Aisyah Madihah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Ipoh",
+    "price": 30,
+    "rating": 4.55,
+    "experience": 17,
+    "level": "Advanced",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": false,
+    "certification": "Teen Quran Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers online lessons at RM30.",
+    "lat": 4.639302,
+    "lng": 101.037293,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 103,
+    "name": "Ustazah Balqis Husna",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kota Bharu",
+    "price": 40,
+    "rating": 4.76,
+    "experience": 10,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": true,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tfemale.webp",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers online lessons at RM40.",
+    "lat": 6.166843,
+    "lng": 102.258867,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 104,
+    "name": "Ustaz Hafiz Firdaus",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuala Terengganu",
+    "price": 40,
+    "rating": 4.75,
+    "experience": 15,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": false,
+    "certification": "Murajaah Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers online lessons at RM40.",
+    "lat": 5.372096,
+    "lng": 103.11968,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 105,
+    "name": "Ustaz Faris Qari",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kota Kinabalu",
+    "price": 40,
+    "rating": 4.56,
+    "experience": 12,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": true,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tmale.jpg",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers online lessons at RM40.",
+    "lat": 5.928848,
+    "lng": 116.104859,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 106,
+    "name": "Ustazah Izzah Syakirah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Sandakan",
+    "price": 40,
+    "rating": 4.87,
+    "experience": 3,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": true,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers online lessons at RM40.",
+    "lat": 5.913794,
+    "lng": 118.152766,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 107,
+    "name": "Ustazah Humaira Azra",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Tawau",
+    "price": 40,
+    "rating": 4.88,
+    "experience": 7,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": false,
+    "certification": "Tarannum Trainer",
+    "image": "images/tfemale.webp",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers online lessons at RM40.",
+    "lat": 4.191601,
+    "lng": 117.819047,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 108,
+    "name": "Ustaz Naufal Amin",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuching",
+    "price": 40,
+    "rating": 4.61,
+    "experience": 6,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": false,
+    "certification": "Sanad Qiraat",
+    "image": "images/tmale.jpg",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers online lessons at RM40.",
+    "lat": 1.493608,
+    "lng": 110.316491,
+    "badge": "Sanad Track"
+  },
+  {
+    "id": 109,
+    "name": "Ustazah Mariam Hafizah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Miri",
+    "price": 50,
+    "rating": 4.68,
+    "experience": 18,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": false,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers online lessons at RM50.",
+    "lat": 4.331981,
+    "lng": 114.048431,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 110,
+    "name": "Ustaz Naufal Amin",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Sibu",
+    "price": 50,
+    "rating": 4.9,
+    "experience": 7,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": true,
+    "certification": "Elderly Quran Support",
+    "image": "images/tmale.jpg",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers online lessons at RM50.",
+    "lat": 2.307484,
+    "lng": 111.79809,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 111,
+    "name": "Ustazah Aisyah Madihah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Bintulu",
+    "price": 50,
+    "rating": 4.9,
+    "experience": 11,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": true,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tfemale.webp",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers online lessons at RM50.",
+    "lat": 3.158267,
+    "lng": 112.989036,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 112,
+    "name": "Ustaz Yusuf Hakim",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Labuan",
+    "price": 50,
+    "rating": 4.59,
+    "experience": 15,
+    "level": "Advanced",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": false,
+    "certification": "Child Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers online lessons at RM50.",
+    "lat": 5.319421,
+    "lng": 115.153949,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 113,
+    "name": "Ustazah Qistina Amal",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kuala Lumpur",
+    "price": 50,
+    "rating": 4.77,
+    "experience": 18,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers online lessons at RM50.",
+    "lat": 3.182682,
+    "lng": 101.697801,
+    "badge": "Best Value"
+  },
+  {
+    "id": 114,
+    "name": "Ustaz Daniel Rayyan",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Shah Alam",
+    "price": 50,
+    "rating": 4.74,
+    "experience": 17,
+    "level": "Advanced",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Teen Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers online lessons at RM50.",
+    "lat": 3.056601,
+    "lng": 101.476805,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 115,
+    "name": "Ustaz Hafiz Firdaus",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuantan",
+    "price": 60,
+    "rating": 4.86,
+    "experience": 15,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": false,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tmale.jpg",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers online lessons at RM60.",
+    "lat": 3.874017,
+    "lng": 103.262729,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 116,
+    "name": "Ustazah Nur Alya",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Johor Bahru",
+    "price": 60,
+    "rating": 4.92,
+    "experience": 3,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": true,
+    "certification": "Murajaah Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers online lessons at RM60.",
+    "lat": 1.427879,
+    "lng": 103.807161,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 117,
+    "name": "Ustazah Balqis Husna",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Penang",
+    "price": 60,
+    "rating": 4.66,
+    "experience": 18,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": false,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers online lessons at RM60.",
+    "lat": 5.458952,
+    "lng": 100.283729,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 118,
+    "name": "Ustaz Luqman Anwar",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Ipoh",
+    "price": 60,
+    "rating": 4.66,
+    "experience": 15,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": false,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tmale.jpg",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers online lessons at RM60.",
+    "lat": 4.575065,
+    "lng": 101.035074,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 119,
+    "name": "Ustazah Mariam Hafizah",
+    "gender": "Female",
+    "mode": "Online",
+    "location": "Kota Bharu",
+    "price": 60,
+    "rating": 4.88,
+    "experience": 16,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": false,
+    "certification": "Tarannum Trainer",
+    "image": "images/tfemale.webp",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers online lessons at RM60.",
+    "lat": 6.09732,
+    "lng": 102.233412,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 120,
+    "name": "Ustaz Syafiq Imran",
+    "gender": "Male",
+    "mode": "Online",
+    "location": "Kuala Terengganu",
+    "price": 60,
+    "rating": 4.83,
+    "experience": 18,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": false,
+    "certification": "Sanad Qiraat",
+    "image": "images/tmale.jpg",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers online lessons at RM60.",
+    "lat": 5.264454,
+    "lng": 103.144082,
+    "badge": "Sanad Track"
+  },
+  {
+    "id": 121,
+    "name": "Ustaz Ahmad Hakimi",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Kota Kinabalu",
+    "price": 30,
+    "rating": 4.62,
+    "experience": 11,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": false,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers physical lessons at RM30.",
+    "lat": 5.989616,
+    "lng": 116.06039,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 122,
+    "name": "Ustaz Amir Haziq",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Sandakan",
+    "price": 30,
+    "rating": 4.87,
+    "experience": 17,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": true,
+    "certification": "Elderly Quran Support",
+    "image": "images/tmale.jpg",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers physical lessons at RM30.",
+    "lat": 5.905587,
+    "lng": 118.114313,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 123,
+    "name": "Ustazah Sarah Huda",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Tawau",
+    "price": 30,
+    "rating": 4.88,
+    "experience": 6,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": true,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tfemale.webp",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers physical lessons at RM30.",
+    "lat": 4.241374,
+    "lng": 117.847295,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 124,
+    "name": "Ustazah Hana Qariah",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kuching",
+    "price": 30,
+    "rating": 4.69,
+    "experience": 9,
+    "level": "Advanced",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": false,
+    "certification": "Child Quran Educator",
+    "image": "images/tfemale.webp",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers physical lessons at RM30.",
+    "lat": 1.554487,
+    "lng": 110.307648,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 125,
+    "name": "Ustaz Yusuf Hakim",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Miri",
+    "price": 30,
+    "rating": 4.96,
+    "experience": 16,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers physical lessons at RM30.",
+    "lat": 4.472148,
+    "lng": 113.962348,
+    "badge": "Best Value"
+  },
+  {
+    "id": 126,
+    "name": "Ustaz Faris Qari",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Sibu",
+    "price": 30,
+    "rating": 4.84,
+    "experience": 8,
+    "level": "Advanced",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": false,
+    "certification": "Teen Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers physical lessons at RM30.",
+    "lat": 2.213554,
+    "lng": 111.83668,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 127,
+    "name": "Ustaz Amir Haziq",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Bintulu",
+    "price": 40,
+    "rating": 4.57,
+    "experience": 16,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": false,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tmale.jpg",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers physical lessons at RM40.",
+    "lat": 3.118609,
+    "lng": 113.038888,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 128,
+    "name": "Ustazah Nur Alya",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Labuan",
+    "price": 40,
+    "rating": 4.96,
+    "experience": 15,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": true,
+    "certification": "Murajaah Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers physical lessons at RM40.",
+    "lat": 5.322955,
+    "lng": 115.267366,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 129,
+    "name": "Ustazah Safiyya Nabila",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kuala Lumpur",
+    "price": 40,
+    "rating": 4.87,
+    "experience": 3,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": false,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers physical lessons at RM40.",
+    "lat": 3.140665,
+    "lng": 101.65618,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 130,
+    "name": "Ustazah Sarah Huda",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Shah Alam",
+    "price": 40,
+    "rating": 4.9,
+    "experience": 9,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": false,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers physical lessons at RM40.",
+    "lat": 3.051775,
+    "lng": 101.471196,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 131,
+    "name": "Ustazah Hana Qariah",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kuantan",
+    "price": 40,
+    "rating": 4.67,
+    "experience": 5,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": false,
+    "certification": "Tarannum Trainer",
+    "image": "images/tfemale.webp",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers physical lessons at RM40.",
+    "lat": 3.764906,
+    "lng": 103.324041,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 132,
+    "name": "Ustazah Balqis Husna",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Johor Bahru",
+    "price": 40,
+    "rating": 4.61,
+    "experience": 4,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": false,
+    "certification": "Sanad Qiraat",
+    "image": "images/tfemale.webp",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers physical lessons at RM40.",
+    "lat": 1.555077,
+    "lng": 103.798363,
+    "badge": "Sanad Track"
+  },
+  {
+    "id": 133,
+    "name": "Ustaz Naufal Amin",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Penang",
+    "price": 50,
+    "rating": 4.95,
+    "experience": 12,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": true,
+    "languages": [
+      "Malay",
+      "English",
+      "Arabic"
+    ],
+    "specialties": [
+      "special-needs"
+    ],
+    "availableToday": true,
+    "certification": "Inclusive Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses accessible teaching methods and patient pacing. This teacher offers physical lessons at RM50.",
+    "lat": 5.468291,
+    "lng": 100.340874,
+    "badge": "Inclusive Support"
+  },
+  {
+    "id": 134,
+    "name": "Ustaz Naufal Amin",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Ipoh",
+    "price": 50,
+    "rating": 4.94,
+    "experience": 6,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "elderly"
+    ],
+    "availableToday": false,
+    "certification": "Elderly Quran Support",
+    "image": "images/tmale.jpg",
+    "bio": "Provides gentle and confidence-building Quran lessons. This teacher offers physical lessons at RM50.",
+    "lat": 4.59271,
+    "lng": 101.055833,
+    "badge": "Gentle Pace"
+  },
+  {
+    "id": 135,
+    "name": "Ustazah Humaira Azra",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kota Bharu",
+    "price": 50,
+    "rating": 4.57,
+    "experience": 9,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "reverts"
+    ],
+    "availableToday": true,
+    "certification": "Revert Quran Guidance",
+    "image": "images/tfemale.webp",
+    "bio": "Guides new Muslims step by step in Quran learning. This teacher offers physical lessons at RM50.",
+    "lat": 6.192045,
+    "lng": 102.213408,
+    "badge": "Revert Friendly"
+  },
+  {
+    "id": 136,
+    "name": "Ustaz Aiman Luqman",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Kuala Terengganu",
+    "price": 50,
+    "rating": 4.79,
+    "experience": 3,
+    "level": "Advanced",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "kids"
+    ],
+    "availableToday": true,
+    "certification": "Child Quran Educator",
+    "image": "images/tmale.jpg",
+    "bio": "Uses engaging and child-friendly teaching techniques. This teacher offers physical lessons at RM50.",
+    "lat": 5.40169,
+    "lng": 103.092164,
+    "badge": "Family Friendly"
+  },
+  {
+    "id": 137,
+    "name": "Ustazah Humaira Azra",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kota Kinabalu",
+    "price": 50,
+    "rating": 4.71,
+    "experience": 17,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "specialties": [
+      "adult-beginner"
+    ],
+    "availableToday": true,
+    "certification": "Adult Beginner Quran Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Helps adults start from the fundamentals comfortably. This teacher offers physical lessons at RM50.",
+    "lat": 6.014009,
+    "lng": 116.030813,
+    "badge": "Best Value"
+  },
+  {
+    "id": 138,
+    "name": "Ustaz Irfan Hadi",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Sandakan",
+    "price": 50,
+    "rating": 4.88,
+    "experience": 8,
+    "level": "Advanced",
+    "forKids": true,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "teen-beginner"
+    ],
+    "availableToday": false,
+    "certification": "Teen Quran Coach",
+    "image": "images/tmale.jpg",
+    "bio": "Supports teenagers with structured beginner lessons. This teacher offers physical lessons at RM50.",
+    "lat": 5.799351,
+    "lng": 118.062396,
+    "badge": "Youth Coach"
+  },
+  {
+    "id": 139,
+    "name": "Ustaz Aiman Luqman",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Tawau",
+    "price": 60,
+    "rating": 4.59,
+    "experience": 7,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "hifz"
+    ],
+    "availableToday": true,
+    "certification": "Ijazah Tahfiz",
+    "image": "images/tmale.jpg",
+    "bio": "Focuses on memorisation, tasmi, and revision discipline. This teacher offers physical lessons at RM60.",
+    "lat": 4.311353,
+    "lng": 117.87628,
+    "badge": "Hifz Coach"
+  },
+  {
+    "id": 140,
+    "name": "Ustazah Hana Qariah",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Kuching",
+    "price": 60,
+    "rating": 4.83,
+    "experience": 12,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "murajaah"
+    ],
+    "availableToday": false,
+    "certification": "Murajaah Coach",
+    "image": "images/tfemale.webp",
+    "bio": "Strengthens memorisation retention and fluency. This teacher offers physical lessons at RM60.",
+    "lat": 1.5608,
+    "lng": 110.316218,
+    "badge": "Revision Coach"
+  },
+  {
+    "id": 141,
+    "name": "Ustaz Irfan Hadi",
+    "gender": "Male",
+    "mode": "Physical",
+    "location": "Miri",
+    "price": 60,
+    "rating": 4.94,
+    "experience": 18,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay",
+      "Arabic"
+    ],
+    "specialties": [
+      "tafsir"
+    ],
+    "availableToday": true,
+    "certification": "Tafsir Studies Certificate",
+    "image": "images/tmale.jpg",
+    "bio": "Explains Quran meanings and contextual lessons clearly. This teacher offers physical lessons at RM60.",
+    "lat": 4.387319,
+    "lng": 114.000543,
+    "badge": "Quran Understanding"
+  },
+  {
+    "id": 142,
+    "name": "Ustazah Safiyya Nabila",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Sibu",
+    "price": 60,
+    "rating": 4.7,
+    "experience": 9,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "tadabbur"
+    ],
+    "availableToday": false,
+    "certification": "Tadabbur Quran Certificate",
+    "image": "images/tfemale.webp",
+    "bio": "Encourages reflection and practical application of verses. This teacher offers physical lessons at RM60.",
+    "lat": 2.2982,
+    "lng": 111.897941,
+    "badge": "Reflection Guide"
+  },
+  {
+    "id": 143,
+    "name": "Ustazah Mariam Hafizah",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Bintulu",
+    "price": 60,
+    "rating": 4.61,
+    "experience": 15,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "tarannum"
+    ],
+    "availableToday": true,
+    "certification": "Tarannum Trainer",
+    "image": "images/tfemale.webp",
+    "bio": "Develops melody, rhythm, and voice control. This teacher offers physical lessons at RM60.",
+    "lat": 3.124441,
+    "lng": 113.090925,
+    "badge": "Melody Coach"
+  },
+  {
+    "id": 144,
+    "name": "Ustazah Sofea Zahra",
+    "gender": "Female",
+    "mode": "Physical",
+    "location": "Labuan",
+    "price": 60,
+    "rating": 4.66,
+    "experience": 8,
+    "level": "Advanced",
+    "forKids": false,
+    "forOKU": false,
+    "languages": [
+      "Malay"
+    ],
+    "specialties": [
+      "qiraat"
+    ],
+    "availableToday": true,
+    "certification": "Sanad Qiraat",
+    "image": "images/tfemale.webp",
+    "bio": "Teaches riwayah and advanced recitation precision. This teacher offers physical lessons at RM60.",
+    "lat": 5.351494,
+    "lng": 115.200559,
+    "badge": "Sanad Track"
+  },
+  {
+    "id":145,
+    "name":"Ustaz Ammar Ahmad",
+    "gender":"Male",
+    "mode":"Online",
+    "location":"Pasir Mas",
+    "price": 20,
+    "rating": 4.55,
+    "experience": 4,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages":[
+      "English",
+      "Malay",
+      "Arabic"
+    ],
+    "specialties":[
+      "tarannum"
+    ],
+    "availableToday": true,
+    "certification": "Tarannum Trainer",
+    "image": "images/teach1.png",
+    "bio": "This teacher is kind to his students and do not discriminate between people whether from country of origin or physical appearances",
+    "lat":  6.0424,
+    "lng": 102.1428,
+    "badge": "Youth Coach"
+  },
+  {
+    "id":146,
+    "name":"Ustaz Irfan Nazran",
+    "gender":"Male",
+    "mode":"Online",
+    "location":"Pasir Mas",
+    "price": 50,
+    "rating": 3.55,
+    "experience": 2,
+    "level": "Beginner",
+    "forKids": false,
+    "forOKU": false,
+    "languages":[
+      "English",
+      "Malay"
+    ],
+    "specialties":[
+      "tarannum"
+    ],
+    "availableToday": true,
+    "certification": "Tarannum Trainer",
+    "image": "images/teach2.png",
+    "bio": "A graduate from MRSM Kota Putra in Terengganu. He is an energetic teacher, always teaching with high spirits and smiles regardless of his ability. The only downside seems to be the expensive payment which is not suited to his level.",
+    "lat":  6.0424,
+    "lng": 102.1428,
+    "badge": "Youth Coach"
+  }
+]

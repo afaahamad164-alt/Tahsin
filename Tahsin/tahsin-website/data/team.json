@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ahmad Fakhrullah Aiman bin Ahamad",
+    "matric": "250357",
+    "role": "Home & UI Design",
+    "image": "images/aime.png"
+  },
+  {
+    "name": "Ahmad Mirza Mumtaz bin Zulkifli",
+    "matric": "250442",
+    "role": "Class Selection & JSON",
+    "image": "images/mmrza.png"
+  },
+  {
+    "name": "Abdul Rashid Hakimi bin Abu Bakar @ Mohd Kamaruddin",
+    "matric": "250036",
+    "role": "Teacher Finder Logic",
+    "image": "images/roshid.png"
+  },
+  {
+    "name": "Ahmad Faez Nasrullah Bin Ab Razak  ",
+    "matric": "250342",
+    "role": "Map, API & Documentation",
+    "image": "images/faez.png"
+  }
+]

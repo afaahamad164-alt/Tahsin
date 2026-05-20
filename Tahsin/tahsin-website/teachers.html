@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tahsin | Smart Teacher Finder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <header class="topbar">
+    <div class="container nav">
+      <a class="brand" href="index.html">
+        <span class="brand-mark"><img src="ChatGPT_Image_May_9__2026__08_14_37_PM-removebg-preview.png"></span>
+        <span>Tahsin</span>
+      </a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a href="index.html" data-nav>Home</a>
+        <a href="classes.html" data-nav>Classes</a>
+        <a href="teachers.html" data-nav>Find Teacher</a>
+        <a href="map.html" data-nav>Map</a>
+        <a href="about.html" data-nav>About</a>
+        <a href="team.html" data-nav>Team</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main-content" class="section">
+    <div class="container">
+      <span class="badge">Step 2 of 2</span>
+      <h1 class="section-title">Smart teacher finder for <span id="selected-class">Teacher Finder</span></h1>
+      <p class="section-subtitle">Search, sort, and filter teachers. Tahsin then ranks them using a smart match score so the most suitable teacher appears first.</p>
+
+      <form id="finder-form" class="toolbar card" aria-label="Teacher search and sorting panel">
+        <div class="form-field">
+          <label for="search">Search teacher or location</label>
+          <input id="search" name="search" type="text" placeholder="Try: Kuantan, tarannum, Malay" aria-describedby="search-help">
+          <small id="search-help" class="small-note">Search supports teacher name, specialty, language, and location.</small>
+        </div>
+        <div class="form-field">
+          <label for="mode">Mode</label>
+          <select id="mode" name="mode">
+            <option value="">Any mode</option>
+            <option value="Online">Online</option>
+            <option value="Physical">Physical</option>
+          </select>
+        </div>
+        <div class="form-field">
+          <label for="level">Level</label>
+          <select id="level" name="level">
+            <option value="">Any level</option>
+            <option value="Beginner">Beginner</option>
+            <option value="Intermediate">Intermediate</option>
+            <option value="Advanced">Advanced</option>
+          </select>
+        </div>
+        <div class="form-field">
+          <label for="budget">Max budget (RM)</label>
+          <select id="budget" name="budget">
+            <option value="">Any budget</option>
+            <option value="30">30</option>
+            <option value="40">40</option>
+            <option value="50">50</option>
+            <option value="60">60</option>
+          </select>
+        </div>
+        <div class="form-field">
+          <label for="sort">Sort by</label>
+          <select id="sort" name="sort">
+            <option value="match-desc">Best match</option>
+            <option value="rating-desc">Highest rating</option>
+            <option value="price-asc">Lowest price</option>
+            <option value="price-desc">Highest price</option>
+            <option value="name-asc">Name A-Z</option>
+          </select>
+        </div>
+        <div class="toolbar-actions" style="grid-column: 1 / -1;">
+          <button type="button" id="reset-filters" class="btn btn-secondary">Reset Filters</button>
+          <a id="view-map" class="btn btn-gold" href="map.html">View on Map</a>
+        </div>
+      </form>
+
+      <div id="recommendation-box" aria-live="polite" class="helper"></div>
+      <p id="teacher-status" class="helper loading-state">Loading teachers...</p>
+      <section id="teacher-list" class="grid teachers-grid" aria-live="polite"></section>
+
+      <section class="section">
+        <div class="container card" style="padding:1.2rem;">
+          <h2 class="section-title">Compare selected teachers</h2>
+          <p class="section-subtitle">Click the compare button on up to two teacher cards. This supports better decision-making and makes the website more interactive.</p>
+          <button type="button" id="reset-compare" class="btn btn-secondary">
+            Reset Compare
+          </button>
+          <div style="overflow:auto;">
+            <table class="comparison-table">
+              <tbody id="comparison-body"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </div>
+    
+    <div id="paymentOverlay" class="overlay">
+
+    <div class="payment-box">
+
+        <span class="close-btn"
+        onclick="closePayment()">
+        &times;
+        </span>
+
+        <h2>Complete Payment</h2>
+
+        <div class="payment-methods">
+            <button id="tngBtn">
+                Touch 'n Go
+            </button>
+
+            <button id="bankBtn">
+                Bank QR
+            </button>
+        </div>
+
+        <img id="qrImage" src="images/tng.png">
+
+        <br>
+
+        <button id="completeBtn" class="complete-btn">
+            Payment Complete 
+        </button>
+
+    </div>
+
+</div>
+
+
+<!-- SUCCESS POPUP -->
+<div id="successBox" class="success-box">
+
+    <div class="success-content">
+
+        <h2> Booking Succesful</h2>
+
+        <p>
+          Your teacher will contact you later.<br>Contact <a style="color: blue;" target="_blank" href="https://mail.google.com/mail/u/0/#inbox?compose=new">transForm@tahsin.com</a> for any inquiry
+        </p>
+
+        <button id="successBtn">
+            Done
+        </button>
+
+    </div>
+
+</div>
+  </main>
+  <footer class="footer"><div class="container"><p>Tahsin uses fetch() with JSON and a custom JavaScript ranking logic for smart matching.</p></div></footer>
+  <script type="module" src="js/teachers.js"></script>
+</body>
+</html>

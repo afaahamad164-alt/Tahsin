@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tahsin | Choose a Class</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <header class="topbar">
+    <div class="container nav">
+      <a class="brand" href="index.html">
+        <span class="brand-mark"><img src="ChatGPT_Image_May_9__2026__08_14_37_PM-removebg-preview.png"></span>
+        <span>Tahsin</span>
+      </a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a href="index.html" data-nav>Home</a>
+        <a href="classes.html" data-nav>Classes</a>
+        <a href="teachers.html" data-nav>Find Teacher</a>
+        <a href="map.html" data-nav>Map</a>
+        <a href="about.html" data-nav>About</a>
+        <a href="team.html" data-nav>Team</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main-content" class="section">
+    <div class="container">
+      <span class="badge">Step 1 of 2</span>
+      <h1 class="section-title">Choose your class route</h1>
+      <p class="section-subtitle">Start with the class that best describes your goal. When you choose one, Tahsin sends you to the teacher finder with that route already selected.</p>
+      <section id="class-list" class="grid class-grid" aria-live="polite"></section>
+    </div>
+  </main>
+  <footer class="footer"><div class="container"><p>Tahsin class routes are loaded dynamically from JSON using fetch().</p></div></footer>
+  <script type="module" src="js/classes.js"></script>
+</body>
+</html>

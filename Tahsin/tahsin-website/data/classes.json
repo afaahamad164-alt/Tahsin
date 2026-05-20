@@ -1,0 +1,98 @@
+[
+  {
+    "id": "special-needs",
+    "name": "Quran for Special Needs",
+    "summary": "Inclusive Quran learning with patient pacing, accessible support, and personalised teaching.",
+    "level": "All Levels",
+    "icon": "♿",
+    "audience": "Special Needs Learners"
+  },
+  {
+    "id": "elderly",
+    "name": "Quran for the Elderly",
+    "summary": "Gentle Quran lessons for elderly learners with slower pacing and confidence-building support.",
+    "level": "All Levels",
+    "icon": "🤲",
+    "audience": "Elderly Learners"
+  },
+  {
+    "id": "reverts",
+    "name": "Quran for Reverts",
+    "summary": "Beginner-friendly Quran guidance for reverts with basic reading, meaning, and practice support.",
+    "level": "All Levels",
+    "icon": "🌙",
+    "audience": "Reverts"
+  },
+  {
+    "id": "kids",
+    "name": "Quran for Kids",
+    "summary": "Child-friendly Quran classes using engaging activities, patience, and visual learning support.",
+    "level": "All Levels",
+    "icon": "🧒",
+    "audience": "Children"
+  },
+  {
+    "id": "adult-beginner",
+    "name": "Quran for Adult Beginner",
+    "summary": "A comfortable starting route for adults who are new to Quran reading and tajwid basics.",
+    "level": "All Levels",
+    "icon": "🌱",
+    "audience": "Adult Beginners"
+  },
+  {
+    "id": "teen-beginner",
+    "name": "Quran for Teen Beginner",
+    "summary": "Beginner Quran reading support for teenagers with structured lessons and steady progress.",
+    "level": "All Levels",
+    "icon": "📘",
+    "audience": "Teen Beginners"
+  },
+  {
+    "id": "hifz",
+    "name": "Hifz",
+    "summary": "Structured Quran memorisation with tasmi, revision planning, and progress tracking.",
+    "level": "All Levels",
+    "icon": "🧠",
+    "audience": "Teens & Adults"
+  },
+  {
+    "id": "murajaah",
+    "name": "Murajaah",
+    "summary": "Revision-focused Quran learning to strengthen memorisation, retention, and recitation fluency.",
+    "level": "All Levels",
+    "icon": "🔁",
+    "audience": "Hifz Students"
+  },
+  {
+    "id": "tafsir",
+    "name": "Tafsir",
+    "summary": "Understand Quran meanings through guided explanation, context, and key lessons.",
+    "level": "All Levels",
+    "icon": "📖",
+    "audience": "Adults & Teens"
+  },
+  {
+    "id": "tadabbur",
+    "name": "Tadabbur",
+    "summary": "Reflect on Quranic messages and connect verses with personal growth and daily life.",
+    "level": "All Levels",
+    "icon": "🌿",
+    "audience": "Adults & Teens"
+  },
+  {
+    "id": "tarannum",
+    "name": "Tarannum",
+    "summary": "Improve Quran recitation tone, melody, rhythm, and voice control through guided practice.",
+    "level": "All Levels",
+    "icon": "🎵",
+    "audience": "Teens & Adults"
+  },
+  {
+    "id": "qiraat",
+    "name": "Qiraat",
+    "summary": "Learn recognised Quran recitation methods with riwayah focus and advanced pronunciation refinement.",
+    "level": "All Levels",
+    "icon": "🎙️",
+    "audience": "Advanced Learners"
+  }
+]

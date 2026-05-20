@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tahsin | Teacher Map</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <header class="topbar">
+    <div class="container nav">
+      <a class="brand" href="index.html">
+        <span class="brand-mark"><img src="ChatGPT_Image_May_9__2026__08_14_37_PM-removebg-preview.png"></span>
+        <span>Tahsin</span>
+      </a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a href="index.html" data-nav>Home</a>
+        <a href="classes.html" data-nav>Classes</a>
+        <a href="teachers.html" data-nav>Find Teacher</a>
+        <a href="map.html" data-nav>Map</a>
+        <a href="about.html" data-nav>About</a>
+        <a href="team.html" data-nav>Team</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main-content" class="section">
+    <div class="container">
+      <h1 class="section-title">Teacher location map</h1>
+      <p class="section-subtitle">This page demonstrates the required API integration. It uses Leaflet with OpenStreetMap tiles to display teacher locations dynamically.</p>
+      <p id="map-status" class="helper loading-state">Loading interactive map...</p>
+      <div class="map-wrap"><div id="map" aria-label="Interactive teacher location map"></div></div>
+    </div>
+  </main>
+  <footer class="footer"><div class="container"><p>External API integration: Leaflet + OpenStreetMap.</p></div></footer>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script type="module" src="js/map.js"></script>
+</body>
+</html>
